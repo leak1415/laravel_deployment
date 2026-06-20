@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="color-scheme" content="dark">
     @yield('title')
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    @vite(['Frontend/src/styles/app.css', 'Frontend/src/app.js'])
 </head>
 
 <body class="bg-slate-950 text-slate-100 antialiased">

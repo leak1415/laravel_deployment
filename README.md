@@ -9,6 +9,12 @@
 
 ## About Laravel
 
+## Project Layout
+
+- `Backend/` contains the Laravel backend application.
+- `Frontend/src/` contains the Vue and Tailwind source used by Vite.
+- `Backend/resources/views/` holds the Blade templates that mount the frontend.
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
