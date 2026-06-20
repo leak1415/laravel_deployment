@@ -9,12 +9,12 @@ Current structure:
 - `src/components/HomeDashboard.js` renders the landing dashboard
 - `src/styles/app.css` is the Tailwind entry stylesheet
 
-Run the frontend build from the repository root with:
+Run the frontend build from the `Frontend/` folder with:
 
 ```bash
 npm install
 npm run dev
 ```
 
-The Blade layout loads these assets through Vite using the `Frontend/src/*`
+The Blade layout loads these assets through Vite using the `src/*` entry
 paths, and the compiled assets are written into `Backend/public/build`.

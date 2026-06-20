@@ -11,6 +11,8 @@ the standard Laravel folders:
 - `resources/views/` for Blade templates
 - `config/`, `bootstrap/`, `public/`, `storage/`, and `tests/`
 
+The UI assets and Vite setup live in `../Frontend/`.
+
 Typical backend commands run from this folder:
 
 ```bash

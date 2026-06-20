@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.npm-cache
+.vite
+/node_modules
+/dist
+Thumbs.db
